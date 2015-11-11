@@ -1,0 +1,7 @@
+#Game Settings Data
+#Format:
+#Identifer:Type:Value
+#Where the types are: Float(decimal), Bool(true/false), String(text), Int(whole number)
+SensitivityX:Float:4
+SensitivityY:Float:2
+InvertPitch:Bool:True

@@ -1,0 +1,14 @@
+#Key Configs, For Information of the Keycodes see: http://docs.unity3d.com/Documentation/ScriptReference/KeyCode.html
+Accelerate:119
+Deccelerate:115
+SteerLeft:97
+SteerRight:100
+RollLeft:113
+RollRight:101
+Respawn:114
+PowerControl:304
+UseAbility:32
+LookBack:9
+ToggleScreenLock:27
+TargetingMode:324
+ChangeShip:99
